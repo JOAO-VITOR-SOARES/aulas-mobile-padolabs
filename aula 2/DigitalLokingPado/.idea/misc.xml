@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/font/roboto_thin.xml" value="0.38645833333333335" />
+        <entry key="app/src/main/res/drawable/bg_input.xml" value="0.1" />
+        <entry key="app/src/main/res/font/roboto_thin.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_fde600wpage.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24074074074074073" />
+        <entry key="app/src/main/res/menu/toolbar.xml" value="0.1" />
       </map>
     </option>
   </component>

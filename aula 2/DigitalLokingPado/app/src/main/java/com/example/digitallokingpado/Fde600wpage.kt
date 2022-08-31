@@ -9,6 +9,5 @@ class Fde600wpage : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_fde600wpage)
-
     }
 }

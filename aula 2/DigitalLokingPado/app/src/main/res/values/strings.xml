@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Pado</string>
+    <string name="search" >Procurar</string>
+    <string name="mundo" >O MUNDO\nCADA VEZ MAIS\n<br>DIGITAL</br></string>
+    <string name="novidade">Novidades</string>
+    <string name="Produtos">Produtos</string>
+    <string name="fde_600w_nome"><br>FDE-600W</br></string>
+    <string name="fde_600w_nome_descricao">FECHADURA DIGITAL DE  EMBUTIR A\nPROVA D’ÁGUA E COM CONECTIVIDADE</string>
 </resources>
